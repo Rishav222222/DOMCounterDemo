@@ -1,0 +1,16 @@
+body{
+background-color: black;
+}
+h1{
+    color: white;
+}
+#decrement{
+    background-color: white;
+}
+#increment{
+    background-color: white;
+}
+#clear{
+    background-color: black;
+    color: white;
+}
